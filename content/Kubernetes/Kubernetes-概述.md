@@ -54,7 +54,7 @@ Kubernetes 允许你存储和管理敏感信息，例如密码、OAuth 令牌和
 
 # 思维导图
 
-```markmap {height="200px"}
+```markmap {height="400px"}
 - Kubernetes 概述
   - Kubernetes 是一个可移植、可扩展的开源平台，用于管理容器化的工作负载和服务，可促进声明式配置和自动化。
   - 部署方式历史
