@@ -10,7 +10,7 @@ weight: 1
 
 ## Kubernetes 概述
 
-Kubernetes 是一个可移植、可扩展的开源平台，用于管理容器化的工作负载和服务，可促进声明式配置和自动化。 
+Kubernetes 是一个可移植、可扩展的开源平台，用于管理容器化的工作负载和服务，可促进声明式配置和自动化。
 
 Kubernetes 拥有一个庞大且快速增长的生态系统，其服务、支持和工具的使用范围广泛。
 
@@ -50,7 +50,7 @@ Kubernetes 允许你存储和管理敏感信息，例如密码、OAuth 令牌和
 
 # 参考资料
 
-- [kubernetes.io官方文档：Kubernetes 是什么？](https://kubernetes.io/zh-cn/docs/concepts/overview/what-is-kubernetes/)
+- [kubernetes.io官方文档：Kubernetes 概述](https://kubernetes.io/zh-cn/docs/concepts/overview/)
 
 # 思维导图
 
