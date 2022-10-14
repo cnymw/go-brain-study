@@ -5,9 +5,6 @@ date: '2022-10-13T00:00:00+01:00'
 
 weight: 2
 ---
-
-# Kubernetes 组件
-
 ## Kubernetes 集群组件图
 
 ![Kubernetes-组件-集群组件图.png](https://cnymw.github.io/GolangStudy/docs/Kubernetes-组件/Kubernetes-组件-集群组件图.png)

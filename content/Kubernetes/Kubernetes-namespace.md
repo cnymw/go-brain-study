@@ -6,8 +6,6 @@ date: '2022-10-09T00:00:00+01:00'
 weight: 3
 ---
 
-# Kubernetes namespace
-
 ## 什么是 Kubernetes namespace
 
 在 Kubernetes 中，名字空间（Namespace）提供一种机制，将同一集群中的资源划分为相互隔离的组。
@@ -87,12 +85,13 @@ kubectl api-resources --namespaced=false
 # 思维导图
 
 ```markmap
-- 什么是 Kubernetes namespace
-- 什么时候使用 Kubernetes namespace
-- 什么时候不必使用 Kubernetes namespace
-- 如何使用 namespace
-- namespace 和 DNS
-- 并非所有对象都在 namespace 中
+- Kubernetes namespace
+  - 什么是 Kubernetes namespace
+  - 什么时候使用 Kubernetes namespace
+  - 什么时候不必使用 Kubernetes namespace
+  - 如何使用 namespace
+  - namespace 和 DNS
+  - 并非所有对象都在 namespace 中
 ```
 
 ![Kubernetes-namespace-思维导图.png](https://cnymw.github.io/GolangStudy/docs/Kubernetes-namespace/Kubernetes-namespace-思维导图.png)
