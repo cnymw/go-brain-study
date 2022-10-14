@@ -43,5 +43,8 @@ Golang 常用在微服务，分布式场景，不经常用于较大的业务场�
 
 很多企业在自建云，或者做云原生的转型，部署服务会逐渐的使用 Kubernetes，而放弃之前的物理机，虚拟机部署模式。所以面试的时候问到 Kubernetes 是比较常见的。
 
+学习目录如下：
+
 - [Kubernetes 概述](https://golang-study.netlify.app/kubernetes/kubernetes-概述/)
 - [Kubernetes 组件](https://golang-study.netlify.app/kubernetes/kubernetes-组件/)
+- [Kubernetes namespace](https://golang-study.netlify.app/kubernetes/kubernetes-namespace/)
