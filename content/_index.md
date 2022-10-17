@@ -4,6 +4,8 @@ date: 2022-10-11
 toc: false
 ---
 
+项目原始文档来源：[GolangStudy: Golang 面试学习](https://github.com/cnymw/GolangStudy)
+
 本项目旨在指导程序员们如何从基础开始系统的学习 Golang 语言，并学习面试所需知识点。
 
 Golang 是一门非常容易上手的语言，语法简洁，代码易读，如果你有常用语言的基础，那看一本 [Golang 语言圣经](https://docs.hacknode.org/gopl-zh/index.html) 后便可上手开发业务代码。
