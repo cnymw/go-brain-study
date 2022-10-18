@@ -45,6 +45,7 @@ Golang 语言的学习可以分为以下方向：
 - 高级机制
 - 源码解读
   - [双向链表 list](https://golang-study.netlify.app/学习Golang语言/go-源码解读-双向链表list/)
+  - [标识符](https://golang-study.netlify.app/学习Golang语言/go-源码解读-标识符/)
 - 常用框架
 
 ### Kubernetes
