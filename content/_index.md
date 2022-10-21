@@ -61,3 +61,4 @@ Golang 常用在微服务，分布式场景，不经常用于较大的业务场�
 - [Kubernetes 概述](https://golang-study.netlify.app/kubernetes/kubernetes-概述/)
 - [Kubernetes 组件](https://golang-study.netlify.app/kubernetes/kubernetes-组件/)
 - [Kubernetes namespace](https://golang-study.netlify.app/kubernetes/kubernetes-namespace/)
+- [Kubernetes 标签](https://golang-study.netlify.app/kubernetes/kubernetes-标签/)
