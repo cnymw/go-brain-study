@@ -85,11 +85,11 @@ Kubernetes 支持许多容器运行环境，例如 Docker、containerd、CRI-O �
 - 容器资源监控：将关于容器的一些常见的时间序列度量值保存到一个集中的数据库中，并提供浏览这些数据的界面。
 - 集群层面日志：负责将容器的日志数据保存到一个集中的日志存储中，这种集中日志存储提供搜索和浏览接口。
 
-# 参考资料
+## 参考资料
 
 - [kubernetes.io 官方文档：Kubernetes 组件](https://kubernetes.io/zh-cn/docs/concepts/overview/components/)
 
-# 思维导图
+## 思维导图
 
 ```markmap
 - Kubernetes 组件
@@ -108,12 +108,12 @@ Kubernetes 支持许多容器运行环境，例如 Docker、containerd、CRI-O �
 
 ![Kubernetes-组件-思维导图.png](https://cnymw.github.io/GolangStudy/docs/Kubernetes-组件/Kubernetes-组件-思维导图.png)
 
-# B站学习
+## B站学习
 
 [从零开始学习k8s：k8s组件](https://www.bilibili.com/video/BV13G4y1a7oq/)
 
 ![Kubernetes-组件-B站.png](https://cnymw.github.io/GolangStudy/docs/Kubernetes-组件/Kubernetes-组件-B站.png)
 
-# 抖音学习
+## 抖音学习
 
 ![Kubernetes-组件-抖音.png](https://cnymw.github.io/GolangStudy/docs/Kubernetes-组件/Kubernetes-组件-抖音.png)

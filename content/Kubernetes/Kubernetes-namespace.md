@@ -78,11 +78,11 @@ kubectl api-resources --namespaced=true
 kubectl api-resources --namespaced=false
 ```
 
-# 参考资料
+## 参考资料
 
 - [kubernetes.io官方文档：名字空间](https://kubernetes.io/zh-cn/docs/concepts/overview/working-with-objects/namespaces/)
 
-# 思维导图
+## 思维导图
 
 ```markmap
 - Kubernetes namespace
@@ -96,14 +96,14 @@ kubectl api-resources --namespaced=false
 
 ![Kubernetes-namespace-思维导图.png](https://cnymw.github.io/GolangStudy/docs/Kubernetes-namespace/Kubernetes-namespace-思维导图.png)
 
-# 视频学习
+## 视频学习
 
-## B站学习
+### B站学习
 
 [从零开始学习k8s：k8s namespace](https://www.bilibili.com/video/BV12T411A7HN/)
 
 ![Kubernetes-namespace-B站.png](https://cnymw.github.io/GolangStudy/docs/Kubernetes-namespace/Kubernetes-namespace-B站.png)
 
-## 抖音学习
+### 抖音学习
 
 ![Kubernetes-namespace-抖音.png](https://cnymw.github.io/GolangStudy/docs/Kubernetes-namespace/Kubernetes-namespace-抖音.png)

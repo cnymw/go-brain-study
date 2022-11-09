@@ -46,11 +46,11 @@ Kubernetes 重新启动失败的容器、替换容器、杀死不响应用户定
 
 Kubernetes 允许你存储和管理敏感信息，例如密码、OAuth 令牌和 ssh 密钥。你可以在不重建容器镜像的情况下部署和更新密钥和应用程序配置，也无需在堆栈配置中暴露密钥。
 
-# 参考资料
+## 参考资料
 
 - [kubernetes.io官方文档：Kubernetes 概述](https://kubernetes.io/zh-cn/docs/concepts/overview/)
 
-# 思维导图
+## 思维导图
 
 ```markmap
 - Kubernetes 概述
@@ -70,7 +70,6 @@ Kubernetes 允许你存储和管理敏感信息，例如密码、OAuth 令牌和
 
 ![Kubernetes-概述-思维导图.png](https://cnymw.github.io/GolangStudy/docs/Kubernetes-概述/Kubernetes-概述-思维导图.png)
 
-# 视频学习
 
 ## B站学习
 

@@ -346,7 +346,7 @@ func (l *List) PushFrontList(other *List) {
 }
 ```
 
-# 思维导图
+## 思维导图
 
 ```markmap
 - 双向链表 list
